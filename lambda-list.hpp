@@ -20,6 +20,7 @@ private:
     std::vector<Lambda> lambdaList;
 };
 
+/*
 int main() {
     LambdaList<int> myList;
 
@@ -41,3 +42,4 @@ int main() {
 
     return 0;
 }
+*/
