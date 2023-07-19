@@ -1,0 +1,18 @@
+{
+  "name": "tiffy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "tiffy": "bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "AGPLv3",
+  "dependencies": {
+    "tifw": "github:regular/tifw"
+  }
+}
